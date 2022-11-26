@@ -1,2 +1,2 @@
 # japanese50Sound
-Learn Japanese 50 sound
+My own project for learning Japanese 50 sound
